@@ -1,4 +1,4 @@
-# TikTok-Claims-Project
+# TikTok Claims Classification Project
 
 ## Project Title
 Classification of TikTok videos' claim status using machine learning models
